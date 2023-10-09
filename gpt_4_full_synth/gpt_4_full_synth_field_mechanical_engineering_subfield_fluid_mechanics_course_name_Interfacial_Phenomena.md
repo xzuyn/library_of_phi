@@ -1,5 +1,5 @@
 # Table of Contents
-- [Interfacial Phenomena: A Comprehensive Guide:](#Interfacial-Phenomena:-A-Comprehensive-Guide":)
+- [Interfacial Phenomena: A Comprehensive Guide:](#Interfacial-Phenomena:-A-Comprehensive-Guide:)
   - [Foreward](#Foreward)
   - [Chapter 1: Introduction](#Chapter-1:-Introduction)
     - [Introduction](#Introduction)
